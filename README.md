@@ -16,7 +16,6 @@
 ### **DevOps & Infraestructura**:
 - **Linux** 🐧 | **Windows Server** 🖥️
 - **Docker** 🐳 | **Servicios en la nube** 🌐
-- **Automatización de Pruebas** 🧪
 
 ### **Patrones de Diseño**:
 - **MVC** 🏗️ | **Singleton** 🔑 |
