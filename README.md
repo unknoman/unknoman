@@ -31,7 +31,7 @@
 - 💡 Siempre abierto a la **colaboración** y nuevas ideas innovadoras.
 
 ## 📫 ¡Conectemos!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hugo-emanuel-oviedo-a3299b203/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hugo-emanuel-oviedo-a3299b203/)
 [![GitHub](https://img.shields.io/badge/GitHub-Seguir-black?style=flat&logo=github)](https://github.com/unknoman)
 
 🚀 ¡No dudes en revisar mis **repositorios** y contribuciones!
