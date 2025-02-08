@@ -16,10 +16,10 @@
 ### **DevOps & Infraestructura**:
 - **Linux** 🐧 | **Windows Server** 🖥️
 - **Docker** 🐳 | **Servicios en la nube** 🌐
-- **CI/CD** 🔄 | **Automatización de Pruebas** 🧪
+- **Automatización de Pruebas** 🧪
 
 ### **Patrones de Diseño**:
-- **MVC** 🏗️ | **Singleton** 🔑 | **Factory** 🏭 | **Observer** 👀 | **Strategy** 🛠️
+- **MVC** 🏗️ | **Singleton** 🔑 |
 
 ### **Prácticas de Desarrollo**:
 - **Inyección de Dependencias** 🧩
