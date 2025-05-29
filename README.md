@@ -7,6 +7,7 @@
 ### **Backend**:
 - **.NET** ⚙️ | **C#** 💻 | **Entity Framework** 📦
 - **NestJS** 🚀 | **Prisma** 🌱
+- **PHP** 🐘 | **Laravel** 🧩
 - **MySQL** 🗄️ | **SQL Server** 🖥️
 
 ### **Frontend**:
@@ -17,6 +18,15 @@
 - **Linux** 🐧 | **Windows Server** 🖥️
 - **Docker** 🐳 | **Servicios en la nube** 🌐
 
+### **Redes & Comunicaciones**:
+- **Modelo OSI (7 capas)** 🧠
+- **TCP/IP**, **subnetting**, **VLANs**, **ruteo estático/dinámico** 🌐
+- **Wireshark**, **firewalls**, **VPN**, **DNS**, **DHCP**, **NAT** 🔧
+
+### **Automatización**:
+- **Playwright** 🤖 | Automatización de pruebas end-to-end y scraping
+- **AutoIt** 🪟 | Automatización de escritorio y tareas repetitivas en Windows
+
 ### **Patrones de Diseño**:
 - **MVC** 🏗️ | **Singleton** 🔑 |
 
@@ -25,6 +35,7 @@
 - **Testing Manual** ✔️ | **Pruebas Automatizadas** 🤖
 
 ## 🚀 Sobre mí
+- 🎓 **Técnico Superior en Desarrollo de Software** con formación integral y enfoque práctico.
 - 🎯 Enfocado en escribir **código limpio**, mantenible y optimizado.
 - 🔥 **Apasionado por aprender nuevas tecnologías** y mejores prácticas.
 - 💡 Siempre abierto a la **colaboración** y nuevas ideas innovadoras.
