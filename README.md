@@ -4,44 +4,46 @@
 
 ## 🛠 Tecnologías
 
-### **Backend**:
-- **.NET** ⚙️ | **C#** 💻 | **Entity Framework** 📦
-- **NestJS** 🚀 | **Prisma** 🌱
-- **PHP** 🐘 | **Laravel** 🧩
-- **MySQL** 🗄️ | **SQL Server** 🖥️
+### 🧩 **Backend**:
+- **.NET** ⚙️ | **C#** 💻 | **Entity Framework** 📦  
+- **NestJS** 🚀 | **Prisma** 🌱  
+- **PHP** 🐘 | **Laravel** 🧩  
+- **MySQL** 🗄️ | **SQL Server** 🖥️  
 
-### **Frontend**:
-- **Angular** 🔥
-- **HTML** 🌐 | **CSS** 🎨 | **JavaScript** 📜
+### 🎨 **Frontend**:
+- **Angular** 🔥  
+- **HTML** 🌐 | **CSS** 🎨 | **JavaScript** 📜  
 
-### **DevOps & Infraestructura**:
-- **Linux** 🐧 | **Windows Server** 🖥️
-- **Docker** 🐳 | **Servicios en la nube** 🌐
+### ⚙️ **DevOps & Infraestructura**:
+- **Linux** 🐧 | **Windows Server** 🖥️  
+- **Docker** 🐳 | **Servicios en la nube** ☁️  
+- **MikroTik** 📡 | Configuración de redes, firewalls, NAT, VPN y monitoreo avanzado  
 
-### **Redes & Comunicaciones**:
-- **Modelo OSI (7 capas)** 🧠
-- **TCP/IP**, **subnetting**, **VLANs**, **ruteo estático/dinámico** 🌐
-- **Wireshark**, **firewalls**, **VPN**, **DNS**, **DHCP**, **NAT** 🔧
+### 🌐 **Redes & Comunicaciones**:
+- **Modelo OSI (7 capas)** 🧠  
+- **TCP/IP**, **subnetting**, **VLANs**, **ruteo estático/dinámico** 🌐  
+- **Wireshark**, **firewalls**, **VPN**, **DNS**, **DHCP**, **NAT** 🔧  
+- **MikroTik RouterOS** 🛜 | Reglas, colas, túneles L2TP/IPSec, análisis de tráfico y scripts  
 
-### **Automatización**:
-- **Playwright** 🤖 | Automatización de pruebas end-to-end y scraping
-- **AutoIt** 🪟 | Automatización de escritorio y tareas repetitivas en Windows
+### 🤖 **Automatización**:
+- **Playwright** | Automatización de pruebas end-to-end y scraping  
+- **AutoIt** | Automatización de escritorio y tareas repetitivas en Windows  
 
-### **Patrones de Diseño**:
-- **MVC** 🏗️ | **Singleton** 🔑 |
+### 🧠 **Patrones de Diseño**:
+- **MVC** 🏗️ | **Singleton** 🔑  
 
-### **Prácticas de Desarrollo**:
-- **Inyección de Dependencias** 🧩
-- **Testing Manual** ✔️ | **Pruebas Automatizadas** 🤖
+### 🧪 **Prácticas de Desarrollo**:
+- **Inyección de Dependencias**  
+- **Testing Manual** ✔️ | **Pruebas Automatizadas** 🤖  
 
 ## 🚀 Sobre mí
-- 🎓 **Técnico Superior en Desarrollo de Software** con formación integral y enfoque práctico.
-- 🎯 Enfocado en escribir **código limpio**, mantenible y optimizado.
-- 🔥 **Apasionado por aprender nuevas tecnologías** y mejores prácticas.
-- 💡 Siempre abierto a la **colaboración** y nuevas ideas innovadoras.
+- 🎓 **Técnico Superior en Desarrollo de Software** con formación integral y enfoque práctico.  
+- 🎯 Enfocado en escribir **código limpio**, mantenible y optimizado.  
+- 🔥 **Apasionado por aprender nuevas tecnologías** y mejores prácticas.  
+- 💡 Siempre abierto a la **colaboración** y nuevas ideas innovadoras.  
 
 ## 📫 ¡Conectemos!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hugo-emanuel-oviedo-a3299b203/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hugo-emanuel-oviedo-a3299b203/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Seguir-black?style=flat&logo=github)](https://github.com/unknoman)
 
 🚀 ¡No dudes en revisar mis **repositorios** y contribuciones!
